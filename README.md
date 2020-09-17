@@ -111,13 +111,13 @@ To obtain the qualification to be a successful candidate for this position I wou
 <img src="Jobapp1.png" alt="jobapp1.png" width="500" height="333">
 
 <h3>HTML Image</h3>
-<img src="Jobapp2.png" alt="Jobapp2.png" width="500" height="333">
+<img src="jobapp2.png" alt="jobapp2.png" width="500" height="333">
 
 <h4>HTML Image</h4>
-<img src="Jobapp3.png" alt="Jobapp3.png" width="500" height="333">
+<img src="jobapp3.png" alt="jobapp3.png" width="500" height="333">
 
 <h5>HTML Image</h5>
-<img src="Jobbapp4.png" alt="Jobbapp4.png" width="500" height="333">
+<img src="jobbapp4.png" alt="jobbapp4.png" width="500" height="333">
 
 
 
