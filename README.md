@@ -159,7 +159,7 @@ To obtain the qualification to be a successful candidate for this position I wou
       </div>
 
       <div class="w3-container w3-card w3-white">
-        <h2 class="w3-text-grey w3-padding-16"></i>Profile</h2>
+        <h2 class="w3-text-grey w3-padding-16">Profile</h2>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Myer-Briggs</b></h5>
           
@@ -194,7 +194,7 @@ In a team environment I think that openness, conscientiousness, and agreeablenes
 <h2></h2>
 The negative attributes this test shows is agreeableness. Although above I indicated that it was a strong attribute, I do not want to discredit it from being a double end sord.  Agreeableness can often be a negative as you afraid to start conflict and just go the easy route. Additionally, I see extraversion as a downfall as it can make me focus on validation from other group members therefore getting distracted from the task at hand. 
 
-<h2 class="w3-text-grey w3-padding-16"></i>Project Idea</h2>
+<h2 class="w3-text-grey w3-padding-16"><Project Idea</h2>
         <div class="w3-container">
         
           <h5 class="w3-opacity"><b>Overveiw</b></h5>  
