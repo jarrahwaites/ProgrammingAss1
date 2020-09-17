@@ -141,16 +141,16 @@ I currently have no professional experience in the IT industry, although within 
 To obtain the qualification to be a successful candidate for this position I would need to complete a Batchelor of IT or Computer Science and an additional degree of Batchelor of Software engineering or a Diploma in software. I would need sufficient work experience with a minimum requirement of 3+ years.
 
 <h2>Job application 1</h2>
-<img src="Jobapp1.png" alt="jobapp1.png" width="600" height="333">
+<img src="Jobapp1.png" alt="jobapp1.png" width="200" height="333">
 
 <h3>ob application 2</h3>
-<img src="jobapp2.png" alt="jobapp2.png" width="600" height="333">
+<img src="jobapp2.png" alt="jobapp2.png" width="200" height="333">
 
 <h4>ob application 3</h4>
-<img src="jobapp3.png" alt="jobapp3.png" width="600" height="333">
+<img src="jobapp3.png" alt="jobapp3.png" width="200" height="333">
 
-<h5>ob application 4</h5>
-<img src="jobbapp4.png" alt="jobbapp4.png" width="600" height="333">
+<h5>Job application 4</h5>
+<img src="jobbapp4.png" alt="jobbapp4.png" width="200" height="333">
 
 
 
