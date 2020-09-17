@@ -24,7 +24,13 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
   
     <!-- Left Column -->
     <div class="w3-third">
-    
+    <div class="w3-white w3-text-grey w3-card-4">
+        <div class="w3-display-container">
+        
+          <div class="w3-display-bottomleft w3-container w3-text-White">
+            <h2>Jarrah Waites</h2>
+          </div>
+        </div>
     
       <div class="w3-white w3-text-grey w3-card-4">
         <div class="w3-display-container">
