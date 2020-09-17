@@ -63,7 +63,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <h2 class="w3-text-grey w3-padding-16"><i class=""></i>Jarrah's Profile</h2>
         <div class="w3-container">
         <div class="w3-container w3-card w3-white">
-        <h2 class="w3-text-grey w3-padding-16"></i>Personal Information</h2>
+        <h2 class="w3-text-grey w3-padding-16">Personal Information</h2>
         <div class="w3-container">
           
         
@@ -96,7 +96,7 @@ I expect to learn essential skills for IT that will allow me to work in web and 
         </div>
         <div class="w3-container">
          <div class="w3-container w3-card w3-white">
-        <h2 class="w3-text-grey w3-padding-16"></i>Ideal Job</h2>
+        <h2 class="w3-text-grey w3-padding-16">Ideal Job</h2>
         <div class="w3-container">
          
           
