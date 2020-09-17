@@ -15,6 +15,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 </style>
 <body class="w3-light-grey">
 
+
 <!-- Page Container -->
 <div class="w3-content w3-margin-top" style="max-width:1500px;">
 
@@ -23,6 +24,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
   
     <!-- Left Column -->
     <div class="w3-third">
+    <h2>HTML Image</h2>
+<img src="Jarrah Profile Picture. Jpeg" alt="Jarrah Profile Picture. Jpeg" width="500" height="333">
     
       <div class="w3-white w3-text-grey w3-card-4">
         <div class="w3-display-container">
