@@ -35,7 +35,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-container">
           <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Melbourne</p>
            <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Student Number:S3871483 </p>
-          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>S3871483@student.rmit</p>.edu.au</p>
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>S3871483@student.rmit.edu.au</p>
           
           <hr>
 
