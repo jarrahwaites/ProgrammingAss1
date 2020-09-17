@@ -143,10 +143,10 @@ To obtain the qualification to be a successful candidate for this position I wou
 <h2>Job application 1</h2>
 <img src="Jobapp1.png" alt="jobapp1.png" width="200" height="333">
 
-<h3>ob application 2</h3>
+<h3>Job application 2</h3>
 <img src="jobapp2.png" alt="jobapp2.png" width="200" height="333">
 
-<h4>ob application 3</h4>
+<h4>Job application 3</h4>
 <img src="jobapp3.png" alt="jobapp3.png" width="200" height="333">
 
 <h5>Job application 4</h5>
