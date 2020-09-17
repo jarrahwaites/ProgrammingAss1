@@ -23,23 +23,18 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
   <div class="w3-row-padding">
   
     <!-- Left Column -->
-    <div class="w3-third">
-    <div class="w3-white w3-text-grey w3-card-4">
-      <div class="w3-display-container">
-        
-          <div class="w3-display-bottomleft w3-container w3-text-White">
-            <h2>Jarrah Waites</h2>
-          </div>
-        </div>
+  <div class="w3-third">
     
       <div class="w3-white w3-text-grey w3-card-4">
         <div class="w3-display-container">
-        <img src="JarrahProfilePicture.jpeg" alt="PhotoofMe">
-        
-          
-        
-        
+          <img src="/w3images/avatar_hat.jpg" style="width:100%" alt="Avatar">
+          <div class="w3-display-bottomleft w3-container w3-text-black">
+            <h2>Jane Doe</h2>
+          </div>
+        </div>
         <div class="w3-container">
+        
+        
           <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Melbourne</p>
            <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Student Number:S3871483 </p>
           <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>S3871483@student.rmit.edu.au</p>
