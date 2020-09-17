@@ -31,10 +31,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <img src="JarrahProfilePicture.jpeg" alt="PhotoofMe">
         
           
-          <div class="w3-display-bottomleft w3-container w3-text-black">
-            <h2>Jarrah</h2>
-          </div>
-        </div>
+        
         
         <div class="w3-container">
           <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Melbourne</p>
@@ -42,6 +39,12 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>S3871483@student.rmit.edu.au</p>
           
           <hr>
+          
+           <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Excited for this course</b></p>
+          <p>Adobe Photoshop</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:90%">100%</div>
+          </div>
 
           
     
