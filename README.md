@@ -296,8 +296,5 @@ Jung, C., 2020. The Myers & Briggs Foundation - MBTI® Basics. [online] Myersbri
 </p>
  
   <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
-</footer>
 
-</body>
-</html>
 
