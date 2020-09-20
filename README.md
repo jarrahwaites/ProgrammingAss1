@@ -2,7 +2,7 @@
 Assignment 1 programming 
 
 
-<!DOCTYPE html>
+
 <html>
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
@@ -46,7 +46,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
             <p>IT Skills</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:20%">
-              <div class="w3-center w3-text-white">80%</div>
+              <div class="w3-center w3-text-white">45%</div>
           </div>
           
             </div>
@@ -194,7 +194,7 @@ In a team environment I think that openness, conscientiousness, and agreeablenes
 <h2></h2>
 The negative attributes this test shows is agreeableness. Although above I indicated that it was a strong attribute, I do not want to discredit it from being a double end sord.  Agreeableness can often be a negative as you afraid to start conflict and just go the easy route. Additionally, I see extraversion as a downfall as it can make me focus on validation from other group members therefore getting distracted from the task at hand. 
 
-<h2 class="w3-text-grey w3-padding-16"><Project Idea</h2>
+<h2 class="w3-text-grey w3-padding-16">Project Idea</h2>
         <div class="w3-container">
         
           <h5 class="w3-opacity"><b>Overveiw</b></h5>  
@@ -273,7 +273,7 @@ The goal is to lower mental health statistics. As a nation we are losing to many
           <hr>
         </div>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>Bibliography</b></h5>
+          <h5 class="w3-opacity">Bibliography</b></h5>
           
           <p>Pourhosein Gilakjani, A., 2011. Visual, Auditory, Kinaesthetic Learning Styles and Their Impacts on English Language Teaching. Journal of Studies in Education, 2(1), p.104.
 <h4></h4>
